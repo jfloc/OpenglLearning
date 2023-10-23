@@ -1,0 +1,7 @@
+﻿  PoissonDiskSampling3D.cpp
+C:\Users\jflor\source\repos\LearnOpenGLBook\PoissonDiskSampling3D.cpp(16,63): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  LearnOpenGLBook.vcxproj -> C:\Users\jflor\source\repos\LearnOpenGLBook\x64\Debug\LearnOpenGLBook.exe
